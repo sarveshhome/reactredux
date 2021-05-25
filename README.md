@@ -11,6 +11,7 @@ https://redux.js.org/introduction/installation
 `npm install @reduxjs/toolkit`
 
 
+
 ### useSelector is a function that takes the current state as an argument and returns whatever data you want from it. It's very similiar to mapStateToProps() and it allows
 
 
@@ -19,6 +20,7 @@ Notes: https://jsonplaceholder.typicode.com/  for API GET request
 https://jsonplaceholder.typicode.com/users
 
 
+`npm install -g json-server`
 
 # Getting Started with Create React App
 
