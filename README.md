@@ -1,3 +1,19 @@
+# install 
+
+https://redux.js.org/introduction/installation
+
+
+`npm install redux`
+
+`npm install react-redux`
+
+
+`npm install @reduxjs/toolkit`
+
+
+### useSelector is a function that takes the current state as an argument and returns whatever data you want from it. It's very similiar to mapStateToProps() and it allows
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
