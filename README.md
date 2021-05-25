@@ -14,6 +14,12 @@ https://redux.js.org/introduction/installation
 ### useSelector is a function that takes the current state as an argument and returns whatever data you want from it. It's very similiar to mapStateToProps() and it allows
 
 
+Notes: https://jsonplaceholder.typicode.com/  for API GET request
+
+https://jsonplaceholder.typicode.com/users
+
+
+
 # Getting Started with Create React App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
